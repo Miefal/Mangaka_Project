@@ -18,3 +18,5 @@
 <br>
 <p align = 'left'> A project of building a website/personal portofolio of a mangaka(manga artsit).
 This is the project given:
+<div align="center">
+    <img src="gallery/Screenshot 2023-03-30 145103.png" alt="project given on github">
