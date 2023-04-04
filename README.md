@@ -30,6 +30,7 @@ This is the project given:
     <br />
     
     <p align = 'left'> This is the end result:
-     <img src="gallery/menu.png" alt="menu html">
-    <img src="gallery/about .png" alt="about html">
-    <img src="gallery/social.png" alt="social html">
+     <img src="gallery/accordion.png" alt="about me accordion style">
+    <img src="gallery/gallery1.png" alt="gallery view">
+    <img src="gallery/gallerytap.png" alt="image tap on gallery">
+     <img src="gallery/social.png" alt="social buttons">
