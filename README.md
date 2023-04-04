@@ -40,7 +40,7 @@ This is the project given:
  <img src="gallery/contact.png" alt="contact html">
  <p align = 'left'> Here is the end result:
 <div align="center">
- <img src="gallery/cintact1.png" alt="contact form">
+ <img src="gallery/contact1.png" alt="contact form">
 
 <!-- LICENSE -->
 ## License
